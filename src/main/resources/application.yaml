@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/todolist_db
-    username: asadmaiga
-    password: Abdurrahman7452
+    username: your_database_name
+    password:  your_database_password
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
